@@ -31,3 +31,4 @@ This tool is scripted with both "Selenium + Python 3" and "BeautifulSoup + Pytho
         
     python.exe Selenium_Script.py
          
+## Please raise an issue in case of any mistake or improvement in the script. Suggestion are Welcome.
