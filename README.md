@@ -8,3 +8,4 @@ IMPORTANT:
     *Please verify the keyword that you are going to enter with the libgen site
     *More precise your keyword the better the results will be
     *This script will automatically download books starting from the most latest book to old ones based on the upload time
+    
