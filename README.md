@@ -26,7 +26,7 @@ This tool is scripted with both "Selenium + Python 3" and "BeautifulSoup + Pytho
    *Open Windows Powershell and Navigate to the destination folder where the script is present
    *Run this command as per the script that you copied
        
-    python.exe BeautifulSoup.py
+    python.exe BeautifulSoup_Script.py
         
         
     python.exe Selenium_Script.py
