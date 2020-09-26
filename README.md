@@ -19,7 +19,9 @@ This tool is scripted with both "Selenium + Python 3" and "BeautifulSoup + Pytho
    *Download and extract the file  
    *Open Powershell and Navigate to this directory  
    *Run this command to install the requirements
+       
     pip install -r requirements.txt    
+        
    *Copy the Script of your choice to the destination folder where you want to download the files  
    *Open Windows Powershell  
    *Navigate to the 
