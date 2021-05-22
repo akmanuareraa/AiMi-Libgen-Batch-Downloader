@@ -8,7 +8,7 @@ IMPORTANT:
     *Please verify the keyword that you are going to enter with the libgen site  
     *More precise your keyword the better the results will be  
     *This script will automatically download books starting from the most latest book to old ones based on the upload time  
-    *The Script is highly customisable and beginner friendly, so play with it
+    *The script is written in a simple manner so edit as per your choice
     
 # Editions  
 
@@ -31,4 +31,4 @@ This tool is scripted with both "Selenium + Python 3" and "BeautifulSoup + Pytho
         
     python.exe Selenium_Script.py
          
-## Please raise an issue in case of any mistake or improvement in the script. Suggestions are welcome
+## I am not a hardcare Python developer, so the script might have performance issues or bugs. Please raise an issue in case of any mistake or improvement in the script. Suggestions are welcome
